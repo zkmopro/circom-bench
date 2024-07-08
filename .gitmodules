@@ -1,0 +1,3 @@
+[submodule "poseidon-hash"]
+	path = poseidon-hash
+	url = https://github.com/vimwitch/poseidon-hash.git
